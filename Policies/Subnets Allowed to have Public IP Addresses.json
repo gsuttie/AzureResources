@@ -1,0 +1,28 @@
+{
+    "if": {
+        "allOf": [
+            {
+                "field": "type",
+                "equals": "Microsoft.Network/networkInterfaces"
+            },
+            {
+                "not": {
+                    "field": "Microsoft.Network/networkInterfaces/ipconfigurations[*].publicIpAddress.id",
+                    "exists": false
+                }
+            },
+            {
+                "not": {
+                    "field": "Microsoft.Network/networkInterfaces/ipconfigurations[*].subnet.id",
+                  "in": [
+                    "/subscriptions/8a1cd9ae-d14c-41b7-9955-733c2c66d79d/resourceGroups/AZ-S-CDM-RG/providers/Microsoft.Network/virtualNetworks/AZ-P-NET-VN01/subnets/AZ-X-NET-SN01",
+                    "/subscriptions/8a1cd9ae-d14c-41b7-9955-733c2c66d79d/resourceGroups/AZ-S-CDM-RG/providers/Microsoft.Network/virtualNetworks/AZ-P-NET-VN01/subnets/GatewaySubnet"
+                  ]
+                }
+            }
+        ]
+    },
+    "then": {
+        "effect": "deny"
+    }
+}

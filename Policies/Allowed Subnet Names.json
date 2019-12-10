@@ -1,0 +1,27 @@
+{
+    "if": {
+      "allOf": [
+        {
+          "field": "type",
+          "equals": "Microsoft.Network/virtualNetworks/subnets"
+        },
+        {
+          "not": {
+            "anyOf": [
+              {
+                "field": "name",
+                "match": "AZ-?-NET-SN##"
+              },
+              {
+                "field": "name",
+                "equals":  "GatewaySubnet"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "then": {
+      "effect": "deny"
+    }
+}

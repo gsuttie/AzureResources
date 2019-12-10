@@ -1,0 +1,23 @@
+{
+    "if": {
+      "allOf": [
+        {
+          "field": "type",
+          "equals": "Microsoft.Network/applicationSecurityGroups"
+        },
+        {
+          "not": {
+            "anyOf": [
+              {
+                "field": "name",
+                "match": "AZ-?-ASG-??##"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "then": {
+      "effect": "deny"
+    }
+}

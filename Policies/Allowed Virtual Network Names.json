@@ -1,0 +1,31 @@
+{
+  "if": {
+    "allOf": [
+      {
+        "field": "type",
+        "equals": "Microsoft.Network/virtualNetworks"
+      },
+      {
+        "not": {
+          "anyOf": [
+            {
+              "field": "name",
+              "match": "AZ-?-NET-VN##"
+            },
+            {
+              "field": "name",
+              "match": "vnet-az-?-???-??##"
+            },
+            {
+              "field": "name",
+              "match": "AZ-?-NET-VN##-asr"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "then": {
+    "effect": "deny"
+  }
+}

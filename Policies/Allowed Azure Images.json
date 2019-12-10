@@ -1,0 +1,49 @@
+{
+    "if": {
+      "allOf": [
+        {
+          "field": "type",
+          "in": [
+            "Microsoft.Compute/virtualMachines",
+            "Microsoft.Compute/VirtualMachineScaleSets"
+          ]
+        },
+        {
+          "not": {
+            "anyOf": [
+              {
+                "allOf": [
+                  {
+                    "field": "Microsoft.Compute/imagePublisher",
+                    "in": [
+                      "MicrosoftWindowsServer",
+                      "MicrosoftSQLServer"
+                    ]
+                  },
+                  {
+                    "field": "Microsoft.Compute/imageOffer",
+                    "in": [
+                      "WindowsServer",
+                      "SQL2017-WS2016"
+                    ]
+                  },
+                  {
+                    "field": "Microsoft.Compute/imageSku",
+                    "in": [
+                      "2016-Datacenter",
+                      "2016-Datacenter-smalldisk",
+                      "Enterprise",
+		      "SQLDEV"
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "then": {
+      "effect": "deny"
+    }
+}

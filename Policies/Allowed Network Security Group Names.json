@@ -1,0 +1,49 @@
+{
+  "if": {
+    "allOf": [
+      {
+        "field": "type",
+        "equals": "Microsoft.Network/networkSecurityGroups"
+      },
+      {
+        "not": {
+          "field": "name",
+          "match": "AZ-?-NSG-SN##"
+        }
+      },
+      {
+        "not": {
+          "field": "name",
+          "match": "nsg-az-??-??-##"
+        }
+      },
+      {
+        "not": {
+          "field": "name",
+          "match": "AZ-?-NSG-VS##"
+        }
+      },
+      {
+        "not": {
+          "field": "name",
+          "match": "AZ-?-NSG-SQ##"
+        }
+      },
+      {
+        "not": {
+          "field": "name",
+          "match": "AZ-?-NSG-FE##"
+        }
+      },
+      {
+        "not": {
+          "field": "name",
+          "match": "AZ-?-NSG-AP##"
+        }
+      }
+    ]
+  },
+  "then": {
+    "effect": "deny"
+  }
+}

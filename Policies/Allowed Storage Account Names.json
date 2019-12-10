@@ -1,0 +1,27 @@
+{
+    "if": {
+      "allOf": [
+        {
+          "field": "type",
+          "equals": "Microsoft.Storage/storageaccounts"
+        },
+        {
+          "not": {
+            "anyOf": [
+              {
+                "field": "name",
+                "match": "az????sa##"
+              },
+              {
+                "field": "name",
+                "like": "*asrcache"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "then": {
+      "effect": "deny"
+    }
+}

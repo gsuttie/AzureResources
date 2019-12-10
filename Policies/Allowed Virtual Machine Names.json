@@ -1,0 +1,25 @@
+{
+  "if": {
+    "allOf": [
+      {
+        "field": "type",
+        "equals": "Microsoft.Compute/virtualMachines"
+      },
+      {
+        "not": {
+          "field": "name",
+          "match": "AZ-?-???-??##?"
+        }
+      },
+      {
+        "not": {
+          "field": "name",
+          "match": "AZ-?-???-??##"
+        }
+      }
+    ]
+  },
+  "then": {
+    "effect": "deny"
+  }
+}
