@@ -1,2 +1,2 @@
 # AzureResources
-Where I will host ll of my Azure scripts and functions etc
+Where I will host all of my Azure scripts and functions etc
