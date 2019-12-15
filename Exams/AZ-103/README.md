@@ -14,11 +14,11 @@ https://docs.microsoft.com/en-us/learn/certifications/
 
 Other resources:
 
-Skylines Academy :- https://www.skylinesacademy.com/
-Pluralsight :- https://www.pluralsight.com/ (checkout learning paths)
-Udemy :- https://www.udemy.com/
-Ignite 2019 On Demand Session :- https://myignite.techcommunity.microsoft.com/sessions/80741?source=sessions
+* Skylines Academy :- https://www.skylinesacademy.com/
+* Pluralsight :- https://www.pluralsight.com/ (checkout learning paths)
+* Udemy :- https://www.udemy.com/
+* Ignite 2019 On Demand Session :- https://myignite.techcommunity.microsoft.com/sessions/80741?source=sessions
 
 AZ-103 Links
-•	https://docs.microsoft.com/en-us/learn/certifications/roles/administrator
-•	https://partner.microsoft.com/en-us/training/assets/collection/az-103-microsoft-azure-administrator-associate#/
+* https://docs.microsoft.com/en-us/learn/certifications/roles/administrator
+* https://partner.microsoft.com/en-us/training/assets/collection/az-103-microsoft-azure-administrator-associate#/

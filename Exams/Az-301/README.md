@@ -14,11 +14,11 @@ https://docs.microsoft.com/en-us/learn/certifications/
 
 Other resources:
 
-Skylines Academy :- https://www.skylinesacademy.com/
-Pluralsight :- https://www.pluralsight.com/ (checkout learning paths)
-Udemy :- https://www.udemy.com/
-Ignite 2019 On Demand Session :- https://myignite.techcommunity.microsoft.com/sessions/78629?source=sessions
+* Skylines Academy :- https://www.skylinesacademy.com/
+* Pluralsight :- https://www.pluralsight.com/ (checkout learning paths)
+* Udemy :- https://www.udemy.com/
+* Ignite 2019 On Demand Session :- https://myignite.techcommunity.microsoft.com/sessions/78629?source=sessions
 
 AZ-301 Links
-•	https://docs.microsoft.com/en-us/learn/certifications/roles/solutions-architect
-•	https://partner.microsoft.com/en-us/training/assets/collection/azure-architect-certification-part-2-exam-az-301#/
+* https://docs.microsoft.com/en-us/learn/certifications/roles/solutions-architect
+* https://partner.microsoft.com/en-us/training/assets/collection/azure-architect-certification-part-2-exam-az-301#/

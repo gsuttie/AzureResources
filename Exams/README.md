@@ -14,6 +14,6 @@ https://docs.microsoft.com/en-us/learn/certifications/
 
 Other resources:
 
-Skylines Academy :- https://www.skylinesacademy.com/
-Pluralsight :- https://www.pluralsight.com/ (checkout learning paths)
-Udemy :- https://www.udemy.com/
+* Skylines Academy :- https://www.skylinesacademy.com/
+* Pluralsight :- https://www.pluralsight.com/ (checkout learning paths)
+* Udemy :- https://www.udemy.com/

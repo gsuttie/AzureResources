@@ -14,11 +14,11 @@ https://docs.microsoft.com/en-us/learn/certifications/
 
 Other resources:
 
-Skylines Academy :- https://www.skylinesacademy.com/
-Pluralsight :- https://www.pluralsight.com/ (checkout learning paths)
-Udemy :- https://www.udemy.com/
-Ignite 2019 On Demand Session :- 
+* Skylines Academy :- https://www.skylinesacademy.com/
+* Pluralsight :- https://www.pluralsight.com/ (checkout learning paths)
+* Udemy :- https://www.udemy.com/
+* Ignite 2019 On Demand Session :- https://myignite.techcommunity.microsoft.com/sessions/78630?source=sessions
 
 AZ-900 Links
-•	https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals
-•	https://partner.microsoft.com/en-us/training/assets/collection/microsoft-azure-fundamentals-certification-exam-az-900#/
+* https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals
+* https://partner.microsoft.com/en-us/training/assets/collection/microsoft-azure-fundamentals-certification-exam-az-900#/

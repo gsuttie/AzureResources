@@ -14,11 +14,11 @@ https://docs.microsoft.com/en-us/learn/certifications/
 
 Other resources:
 
-Skylines Academy :- https://www.skylinesacademy.com/
+* Skylines Academy :- https://www.skylinesacademy.com/
 Pluralsight :- https://www.pluralsight.com/ (checkout learning paths)
-Udemy :- https://www.udemy.com/
-Ignite 2019 On Demand Session :- https://myignite.techcommunity.microsoft.com/sessions/80068?source=sessions
+* Udemy :- https://www.udemy.com/
+* Ignite 2019 On Demand Session :- https://myignite.techcommunity.microsoft.com/sessions/80068?source=sessions
 
 AZ-400 Links
-•	https://docs.microsoft.com/en-us/learn/certifications/roles/devops-engineer
-•	https://partner.microsoft.com/en-us/training/assets/collection/azure-devops-engineer-expert-certification-exam-az-400#/
+* https://docs.microsoft.com/en-us/learn/certifications/roles/devops-engineer
+* https://partner.microsoft.com/en-us/training/assets/collection/azure-devops-engineer-expert-certification-exam-az-400#/
