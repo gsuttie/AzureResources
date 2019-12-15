@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Devops",
+    "\\Exams",
     "\\Policies"
   ],
-  "SelectedNode": "\\Policies\\DeployPolicy.ps1",
+  "SelectedNode": "\\README.md",
   "PreviewInSolutionExplorer": false
 }

@@ -1,5 +1,5 @@
 # Azure Resources
-General Exam Resources
+AZ-203 Exam Resources
 
 This one gives you a lot of background info :- 
 https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWtQJJ
@@ -17,3 +17,8 @@ Other resources:
 Skylines Academy :- https://www.skylinesacademy.com/
 Pluralsight :- https://www.pluralsight.com/ (checkout learning paths)
 Udemy :- https://www.udemy.com/
+Ignite 2019 On Demand Session :- https://myignite.techcommunity.microsoft.com/sessions/78611?source=sessions
+
+AZ-203 Links
+•	https://docs.microsoft.com/en-us/learn/certifications/roles/developer
+•	https://partner.microsoft.com/en-us/training/assets/collection/azure-developer-certification-exam-az203#/
