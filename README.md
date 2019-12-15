@@ -7,8 +7,8 @@ the community for the community.
 
 If you would like to contribute the rules are as follows:-
 
-•	Submit a pull request (everyone is welcome)
-•	Lets try and keep the content helpful for EVERYONE
-•	Share on twitter using #AzureCommunityResources and #azurefamily
-•	Help us make this more useful with ideas etc 
-•	Any questions ping Gregor https://twitter.com/Gregor_Suttie or Richard https://twitter.com/Pixel_Robots
+*	Submit a pull request (everyone is welcome)
+*	Lets try and keep the content helpful for EVERYONE
+*	Share on twitter using #AzureCommunityResources and #azurefamily
+*   Help us make this more useful with ideas etc 
+* 	Any questions ping Gregor https://twitter.com/Gregor_Suttie or Richard https://twitter.com/Pixel_Robots
