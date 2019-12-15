@@ -21,4 +21,5 @@ Other resources:
 
 AZ-900 Links
 * https://docs.microsoft.com/en-us/learn/certifications/azure-fundamentals
+* https://docs.microsoft.com/en-us/learn/paths/azure-fundamentals/
 * https://partner.microsoft.com/en-us/training/assets/collection/microsoft-azure-fundamentals-certification-exam-az-900#/
