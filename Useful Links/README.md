@@ -12,3 +12,5 @@ General Useful Links
 * Decision tree for Azure compute services – https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
 * Azure Serverless Community Library - https://serverlesslibrary.net/
 * Azure for Architects - https://azure.microsoft.com/en-gb/resources/azure-for-architects/
+* Deployment Best Practices - https://docs.microsoft.com/en-gb/azure/app-service/deploy-best-practices
+* Tips for learning Azure in the New Year - https://azure.microsoft.com/en-us/blog/tips-for-learning-azure-in-the-new-year/
