@@ -12,3 +12,5 @@ If you would like to contribute the rules are as follows:-
 * Share on twitter using #AzureCommunityResources and #azurefamily
 * Help us make this more useful with ideas etc 
 * Any questions ping Gregor https://twitter.com/Gregor_Suttie or Richard https://twitter.com/Pixel_Robots
+
+Checkout the Exam folder for information about most of main the Azure Exams.
