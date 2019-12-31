@@ -22,4 +22,4 @@ Other resources:
 AZ-300 Links
 * https://docs.microsoft.com/en-us/learn/certifications/roles/solutions-architect
 * https://partner.microsoft.com/en-us/training/assets/collection/azure-architect-certification-part-1-exam-az-300#/
-* https://azure.microsoft.com/en-gb/solutions/architecture/
+* https://azure.microsoft.com/en-us/solutions/architecture/
