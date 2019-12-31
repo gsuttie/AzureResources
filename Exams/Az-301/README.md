@@ -22,3 +22,4 @@ Other resources:
 AZ-301 Links
 * https://docs.microsoft.com/en-us/learn/certifications/roles/solutions-architect
 * https://partner.microsoft.com/en-us/training/assets/collection/azure-architect-certification-part-2-exam-az-301#/
+* https://azure.microsoft.com/en-us/solutions/architecture/
