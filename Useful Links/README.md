@@ -9,6 +9,8 @@ General Useful Links
 * Azure Serverless Community Library - https://serverlesslibrary.net/
 * Azure Security - https://azure.microsoft.com/en-gb/overview/security/
 * Azure Updates - https://azurecharts.com/
+* Azure User Group Map - https://aka.ms/azurefamily
+
 
 *Guides*
 * Azure Key Vault Developer’s Guide – https://docs.microsoft.com/en-gb/azure/key-vault/key-vault-developers-guide
@@ -18,7 +20,8 @@ General Useful Links
 * Deployment Best Practices - https://docs.microsoft.com/en-gb/azure/app-service/deploy-best-practices
 * Azure Reference Architecture - https://docs.microsoft.com/en-us/azure/architecture/architectures/?filter=reference-architecture
 * Get started guide for Azure developers - https://docs.microsoft.com/en-gb/azure/guides/developer/azure-developer-guide
-*Azure quickstart Templates - https://azure.microsoft.com/en-gb/resources/templates/
+* Azure quickstart Templates - https://azure.microsoft.com/en-gb/resources/templates/
+* Microsoft Cloud Adoption Framework - https://aka.ms/caf
 	
 
 * Decision tree for Azure compute services – https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
