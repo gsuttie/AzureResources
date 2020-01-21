@@ -2,6 +2,7 @@
 General Useful Links
 
 * Azure Overview – https://azure-overview.com/
+* Azure Checklist – https://azurechecklist.com/
 * Azure Developers Guide – https://azure.microsoft.com/en-us/campaigns/developer-guide/
 * Azure Architecture Centre – https://docs.microsoft.com/en-us/azure/architecture/
 * Azure Citadel – https://azurecitadel.com/
