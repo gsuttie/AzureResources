@@ -1,4 +1,6 @@
-# Azure Resources
+![Azure Image](https://portal.azure.com/favicon.ico)
+   
+# Azure Resources 
 
 Hello, this is where I host the communties favourite Azure Resources.
 
