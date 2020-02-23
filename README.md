@@ -2,7 +2,7 @@
    
 # Azure Resources 
 
-Hello, this is where I host the communties favourite Azure Resources.
+Hello, this is where I host the communities favourite Azure Resources.
 
 Please share and submit Pull Requests and we will grow this out to be a super useful, super helpful Azure Resource by
 the community for the community.
