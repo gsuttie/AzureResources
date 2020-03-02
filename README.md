@@ -1,4 +1,3 @@
-![Azure Image](https://portal.azure.com/favicon.ico)
 
 # Azure Resources
 
@@ -17,6 +16,6 @@ If you would like to contribute the rules are as follows:-
 
 Checkout the *Exam* folder for information about info on the main Azure Exams.
 
-If you're looking to get started learning Azure I always suggest thinking about doing the Azure exams. Take a look at Az-900 which is the fundamentals exam, this will focus you on learning and give you a purpose.
+If you're looking to get started learning Azure I always suggest thinking about doing the Azure exams. Take a look at AZ-900 which is the fundamentals exam, this will focus you on learning and give you a purpose.
 
 Hands on learning for me is the best way that I learn, you may well be different. If not, I would suggest Microsoft Learn as a great place to get started https://docs.microsoft.com/en-us/learn/.
