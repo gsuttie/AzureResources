@@ -1,10 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Devops",
-    "\\Exams",
-    "\\Policies"
+    "\\Exams\\AZ-104\\StudyGuides",
+    "\\Exams\\AZ-203\\StudyGuides"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Talks",
   "PreviewInSolutionExplorer": false
 }
