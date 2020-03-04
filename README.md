@@ -14,7 +14,7 @@ If you would like to contribute the rules are as follows:-
 * Help us make this more useful with ideas etc
 * Any questions ping Gregor https://twitter.com/Gregor_Suttie
 
-Checkout the **Exam** folder for information about info on the main Azure Exams.
+Checkout the **Exam** (under Code at the top) folder for information about info on the main Azure Exams.
 
 If you're looking to get started learning Azure I always suggest thinking about doing the Azure exams. Take a look at AZ-900 which is the fundamentals exam, this will focus you on learning and give you a purpose.
 
