@@ -1,6 +1,9 @@
 # Azure Resources
 General Useful Links
 
+
+* Azure Weekly - https://azureweekly.info/
+
 * Azure Overview – https://azure-overview.com/
 * Azure Checklist – https://azurechecklist.com/
 * Azure Developers Guide – https://azure.microsoft.com/en-us/campaigns/developer-guide/
