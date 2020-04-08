@@ -25,7 +25,9 @@ General Useful Links
 * Get started guide for Azure developers - https://docs.microsoft.com/en-gb/azure/guides/developer/azure-developer-guide
 * Azure quickstart Templates - https://azure.microsoft.com/en-gb/resources/templates/
 * Microsoft Cloud Adoption Framework - https://aka.ms/caf
-	
+* Azure Code Samples - https://docs.microsoft.com/en-us/samples/browse/?products=azure
+* Official Microsoft Azure YouTube Channel - https://www.youtube.com/user/windowsazure
+* Azure REST API Browser - https://docs.microsoft.com/en-us/rest/api/?view=Azure
 
 * Decision tree for Azure compute services – https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
 
