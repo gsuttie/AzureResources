@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Governance"
+    "\\Devops",
+    "\\Devops\\GithubActions",
+    "\\Useful Links"
   ],
-  "SelectedNode": "\\Governance\\README.md",
+  "SelectedNode": "\\Useful Links\\README.md",
   "PreviewInSolutionExplorer": false
 }
