@@ -9,3 +9,6 @@ https://pixelrobots.co.uk/2018/10/study-resources-for-the-az-301/
 
 * AZ-301 Azure Study Guide by Joe Carlyle
 https://wedoazure.ie/2019/07/10/az-301-microsoft-azure-architect-design-study-guide/
+
+* AZ-301 Azure Study Guide by Joe Plumb
+https://github.com/joe-plumb-notes/architecture/blob/master/az-301-notes.md
