@@ -8,7 +8,7 @@ DP-300 Exam Resources Study Guide
 **Deploy resources by using manual methods**
 
 * deploy database offerings on selected platforms
-<a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas"> - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas</a>
+<a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas"> - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-paas-vs-sql-server-iaas</a>Implement security for data at rest
 * configure customized deployment templates
 <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-manager-samples?tabs=single-database"> - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-manager-samples?tabs=single-database</a>
 * apply patches and updates for hybrid and IaaS deployment
@@ -79,9 +79,10 @@ DP-300 Exam Resources Study Guide
 * apply principle of least privilege for all securables 
 <a href="https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/authorization-and-permissions-in-sql-server"> - https://docs.microsoft.com/en-us/dotnet/framework/data/adonet/sql/authorization-and-permissions-in-sql-server</a>
 
-**Implement security for data at rest**<br><br>* implement Transparent Data Encryption (TDE) 
-<a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/transparent-data-encryption?view=sql-server-ver15"> - https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/transparent-data-encryption?view=sql-server-ver15</a>
+**Implement security for data at rest**
 
+* implement Transparent Data Encryption (TDE) 
+<a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/transparent-data-encryption?view=sql-server-ver15"> - https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/transparent-data-encryption?view=sql-server-ver15</a>
 * implement object-level encryption 
 <a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/encrypt-a-column-of-data?view=sql-server-ver15"> - https://docs.microsoft.com/en-us/sql/relational-databases/security/encryption/encrypt-a-column-of-data?view=sql-server-ver15</a>
 * implement Dynamic Data Masking 
