@@ -1,10 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Devops",
     "\\Devops\\GithubActions",
+    "\\Talks",
     "\\Useful Links"
   ],
-  "SelectedNode": "\\Useful Links\\README.md",
+  "SelectedNode": "\\Talks",
   "PreviewInSolutionExplorer": false
 }
