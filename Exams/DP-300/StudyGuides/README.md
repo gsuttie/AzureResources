@@ -59,7 +59,11 @@ DP-300 Exam Resources Study Guide
 * implement an offline upgrade strategy
 <a href="https://docs.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-to-a-different-edition-of-sql-server-setup?view=sql-server-ver15"> - https://docs.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-to-a-different-edition-of-sql-server-setup?view=sql-server-ver15</a>
 
-**Implement a Secure Environment (15-20%)**<br><br>**Configure database authentication by using platform and database tools**
+***
+
+**Implement a Secure Environment (15-20%)**
+
+**Configure database authentication by using platform and database tools**
 
 * configure Azure AD authentication 
 <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication-configure?tabs=azure-powershell"> - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication-configure?tabs=azure-powershell</a>
@@ -263,7 +267,7 @@ DP-300 Exam Resources Study Guide
 
 ***
 
-**Plan and Implement a High Availability and Disaster Recovery (HADR)<br>Environment (15-20%)**
+**Plan and Implement a High Availability and Disaster Recovery (HADR) Environment (15-20%)**
 
 **Recommend an HADR strategy for a data platform solution**
 * recommend HADR strategy based on RPO/RTO requirements 
