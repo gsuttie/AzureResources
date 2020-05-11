@@ -1,7 +1,9 @@
 # Azure Resources
-DP-300 Exam Resources Study Guides
+DP-300 Exam Resources Study Guide
 
-**Plan and Implement Data Platform Resources (15-20%)**
+***
+
+***Plan and Implement Data Platform Resources (15-20%)***
 
 **Deploy resources by using manual methods**
 
@@ -102,6 +104,10 @@ DP-300 Exam Resources Study Guides
 <a href="https://docs.microsoft.com/en-us/sql/relational-databases/track-changes/track-data-changes-sql-server?view=sql-server-ver15"> - https://docs.microsoft.com/en-us/sql/relational-databases/track-changes/track-data-changes-sql-server?view=sql-server-ver15</a>
 * perform vulnerability assessment 
 <a href="https://docs.microsoft.com/en-us/sql/relational-databases/security/sql-vulnerability-assessment?view=sql-server-ver15"> - https://docs.microsoft.com/en-us/sql/relational-databases/security/sql-vulnerability-assessment?view=sql-server-ver15</a>
+
+
+***
+
 
 **Monitor and Optimize Operational Resources (15-20%)**
 
