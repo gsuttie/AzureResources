@@ -12,7 +12,7 @@ DP-300 Exam Resources Study Guide
 * configure customized deployment templates
 <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-manager-samples?tabs=single-database"> - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-resource-manager-samples?tabs=single-database</a>
 * apply patches and updates for hybrid and IaaS deployment
-<a href="https://docs.microsoft.com/en-us/azure/automation/automation-tutorial-update-management"> - https://docs.microsoft.com/en-us/azure/automation/automation-tutorial-update-management</a></p>
+<a href="https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-automated-patching"> - https://docs.microsoft.com/en-us/azure/virtual-machines/windows/sql/virtual-machines-windows-sql-automated-patching
 
 
 
@@ -59,7 +59,11 @@ DP-300 Exam Resources Study Guide
 * implement an offline upgrade strategy
 <a href="https://docs.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-to-a-different-edition-of-sql-server-setup?view=sql-server-ver15"> - https://docs.microsoft.com/en-us/sql/database-engine/install-windows/upgrade-to-a-different-edition-of-sql-server-setup?view=sql-server-ver15</a>
 
-**Implement a Secure Environment (15-20%)**<br><br>**Configure database authentication by using platform and database tools**
+***
+
+**Implement a Secure Environment (15-20%)**
+
+**Configure database authentication by using platform and database tools**
 
 * configure Azure AD authentication 
 <a href="https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication-configure?tabs=azure-powershell"> - https://docs.microsoft.com/en-us/azure/sql-database/sql-database-aad-authentication-configure?tabs=azure-powershell</a>
@@ -137,7 +141,7 @@ DP-300 Exam Resources Study Guide
 * automate database maintenance tasks
 	- Azure SQL agent jobs, Azure automation, SQL server agent jobs <a href="https://docs.microsoft.com/en-us/sql/relational-databases/maintenance-plans/use-the-maintenance-plan-wizard?view=sql-server-ver15"> - https://docs.microsoft.com/en-us/sql/relational-databases/maintenance-plans/use-the-maintenance-plan-wizard?view=sql-server-ver15</a>
 * manage storage capacity 
-<a href="https://docs.microsoft.com/en-us/sql/sql-server/maximum-capacity-specifications-for-sql-server?view=sql-server-ver15"> - https://docs.microsoft.com/en-us/sql/sql-server/maximum-capacity-specifications-for-sql-server?view=sql-server-ver15</a></p>
+<a href="https://docs.microsoft.com/en-us/sql/sql-server/maximum-capacity-specifications-for-sql-server?view=sql-server-ver15"> - https://docs.microsoft.com/en-us/sql/sql-server/maximum-capacity-specifications-for-sql-server?view=sql-server-ver15</a>
 
 
 **Identify performance-related issues**
@@ -206,7 +210,7 @@ DP-300 Exam Resources Study Guide
 * recommend query construct modifications based on resource usage 
 <a href="https://docs.microsoft.com/en-us/sql/relational-databases/performance/upgrade-dbcompat-using-qta?view=sql-server-ver15"> - https://docs.microsoft.com/en-us/sql/relational-databases/performance/upgrade-dbcompat-using-qta?view=sql-server-ver15</a>
 * assess the use of hints for query performance 
-<a href="https://docs.microsoft.com/en-us/sql/t-sql/queries/hints-transact-sql-query?view=sql-server-ver15"> - https://docs.microsoft.com/en-us/sql/t-sql/queries/hints-transact-sql-query?view=sql-server-ver15</a><br></p>
+<a href="https://docs.microsoft.com/en-us/sql/t-sql/queries/hints-transact-sql-query?view=sql-server-ver15"> - https://docs.microsoft.com/en-us/sql/t-sql/queries/hints-transact-sql-query?view=sql-server-ver15</a><br>
 
 
 **Review database table and index design**
@@ -263,7 +267,7 @@ DP-300 Exam Resources Study Guide
 
 ***
 
-**Plan and Implement a High Availability and Disaster Recovery (HADR)<br>Environment (15-20%)**
+**Plan and Implement a High Availability and Disaster Recovery (HADR) Environment (15-20%)**
 
 **Recommend an HADR strategy for a data platform solution**
 * recommend HADR strategy based on RPO/RTO requirements 
