@@ -18,6 +18,9 @@ Other resources:
 * Pluralsight :- https://www.pluralsight.com/ (checkout learning paths)
 * Udemy :- https://www.udemy.com/
 
+Study Guides:
+* http://msftcert.azurewebsites.net/2020/04/14/exam-az-104-studyguide/
+
 AZ-104 Links
 * https://docs.microsoft.com/en-us/learn/certifications/exams/az-104
 
