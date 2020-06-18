@@ -1,10 +1,14 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Devops\\GithubActions",
+    "\\Exams",
+    "\\Exams\\AZ-900",
+    "\\Exams\\AZ-900\\StudyGuides",
+    "\\Exams\\DP-300",
+    "\\Exams\\DP-300\\StudyGuides",
     "\\Talks",
     "\\Useful Links"
   ],
-  "SelectedNode": "\\Talks",
+  "SelectedNode": "\\Exams\\DP-300\\StudyGuides\\README.md",
   "PreviewInSolutionExplorer": false
 }
