@@ -35,6 +35,7 @@ Azure Tips
 * Tips for learning Azure in the New Year - https://azure.microsoft.com/en-us/blog/tips-for-learning-azure-in-the-new-year/
 * Azure Tips and Tricks – https://microsoft.github.io/AzureTipsAndTricks/
 * Use this to learn KQL - portal.loganalytics.io/demo
+* Azure Hands on Labs - https://olohmann.github.io/azure-hands-on-labs/
 
 
 Fun Stuff
