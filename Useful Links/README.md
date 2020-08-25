@@ -28,6 +28,7 @@ General Useful Links
 * Azure Code Samples - https://docs.microsoft.com/en-us/samples/browse/?products=azure
 * Official Microsoft Azure YouTube Channel - https://www.youtube.com/user/windowsazure
 * Azure REST API Browser - https://docs.microsoft.com/en-us/rest/api/?view=Azure
+* Azure Monitor Resources - https://github.com/microsoft/AzureMonitorCommunity
 
 * Decision tree for Azure compute services – https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
 
