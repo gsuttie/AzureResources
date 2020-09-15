@@ -29,6 +29,7 @@ General Useful Links
 * Official Microsoft Azure YouTube Channel - https://www.youtube.com/user/windowsazure
 * Azure REST API Browser - https://docs.microsoft.com/en-us/rest/api/?view=Azure
 * Azure Monitor Resources - https://github.com/microsoft/AzureMonitorCommunity
+* Azure API Management great links - https://azure.github.io/api-management-resources/
 
 * Decision tree for Azure compute services – https://docs.microsoft.com/en-us/azure/architecture/guide/technology-choices/compute-decision-tree
 
