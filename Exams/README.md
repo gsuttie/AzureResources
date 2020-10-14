@@ -12,6 +12,9 @@ https://partner.microsoft.com/en-US/training/assets#/?type=Exam
 Microsoft Learn Certifications :-
 https://docs.microsoft.com/en-us/learn/certifications/
 
+Microsoft Learning on GitHub
+https://github.com/MicrosoftLearning
+
 Other resources:
 
 * Skylines Academy :- https://www.skylinesacademy.com/
