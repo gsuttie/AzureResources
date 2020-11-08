@@ -1,13 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Exams",
-    "\\Exams\\AZ-900\\StudyGuides",
-    "\\Exams\\DP-100\\StudyGuides",
-    "\\Exams\\DP-200\\StudyGuides",
-    "\\Exams\\DP-900\\StudyGuides",
+    "\\Devops",
+    "\\Devops\\GithubActions",
+    "\\Devops\\Terraform",
     "\\Useful Links"
   ],
-  "SelectedNode": "\\Exams\\README.md",
+  "SelectedNode": "\\Devops\\Terraform\\README.md",
   "PreviewInSolutionExplorer": false
 }
