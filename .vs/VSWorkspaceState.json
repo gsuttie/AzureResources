@@ -1,6 +1,7 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Devops",
     "\\Exams",
     "\\Exams\\AI-900",
     "\\Exams\\AI-900\\StudyGuides",
@@ -8,6 +9,6 @@
     "\\Exams\\AZ-103\\StudyGuides",
     "\\Useful Links"
   ],
-  "SelectedNode": "\\Exams\\AI-900\\StudyGuides\\README.md",
+  "SelectedNode": "\\Devops\\README.md",
   "PreviewInSolutionExplorer": false
 }
