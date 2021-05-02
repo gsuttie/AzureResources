@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AKS",
-    "\\Useful Links"
+    "\\Data",
+    "\\Data\\DataFactory",
+    "\\Devops"
   ],
-  "SelectedNode": "\\Useful Links",
+  "SelectedNode": "\\Devops\\README.md",
   "PreviewInSolutionExplorer": false
 }
