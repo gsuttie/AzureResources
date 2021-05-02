@@ -7,3 +7,4 @@ Azure DataFatory Resources
 * Deepthi Goguri's SQL Server Blog :- https://dbanuggets.com/
 * Officical Data Factory Docs - https://azure.microsoft.com/en-gb/services/data-factory/
 * Official Twitter for Azure Data Factory - https://twitter.com/AzDataFactory
+* Official Twitter for Azure Synapse - https://twitter.com/Azure_Synapse
