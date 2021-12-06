@@ -15,6 +15,7 @@ General Useful Links
 * Azure Security - https://azure.microsoft.com/en-gb/overview/security/?WT.mc_id=AZ-MVP-5003451
 * Azure Updates - https://azurecharts.com/
 * Azure User Group Map - https://aka.ms/azurefamily
+* Microsoft Cloud Workshops - https://microsoftcloudworkshop.com/
 
 
 *Guides*
